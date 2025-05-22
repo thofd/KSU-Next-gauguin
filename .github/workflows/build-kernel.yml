@@ -1,4 +1,4 @@
-name: Build kernel by clang-r383902b
+name: Build kernel with ksu_next gauguin
 on:
   workflow_dispatch:
 
